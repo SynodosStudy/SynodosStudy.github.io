@@ -21,10 +21,8 @@ author: Synodos Study
 
 navbar-links:
   '<i class="fas fa-home"></i> Home': "/"
-  Participate Today: "https://edinburgh.eu.qualtrics.com/jfe/form/SV_42FbUD771lG2ozs"
   Contact Us: "contact"
   Participant Safety Information: "safety"
-  Research Team: "people"
   Resources:
     - Study Update: "update"
 
